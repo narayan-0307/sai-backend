@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+frontend/out/
+frontend/dist/
+*.log
+
+# Environment files
+backend/server/.env
+frontend/.env
+frontend/.env.local
+frontend/.env.production
